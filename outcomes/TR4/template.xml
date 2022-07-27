@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knowl mode="exercise" xmlns="https://spatext.clontz.org" version="0.2">
+    <content>
+        <p>Simplify: <m>\quad \{{f1}}^{ {{e1}} }\theta \{{f2}}^{ {{e2}} }\theta \{{f3}}^{ {{e3}} }\theta =</m></p>
+    <p> </p>
+        {{#choices}}
+        <p>({{letter}}). <m>\quad\displaystyle {{value}} </m></p>
+        {{/choices}}
+    </content>
+    <outtro>
+        <p><m>\displaystyle {{answer}} </m></p>
+    </outtro>
+</knowl>

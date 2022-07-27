@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knowl mode="exercise" xmlns="https://spatext.clontz.org" version="0.2">
+    <content>
+        <p><image source="assets/GR3/generated/{{__seed__}}/graph.png"/></p>
+        <p>The domain and range of the function graphed above are:</p>
+    <p> </p>
+        {{#choices}}
+        <p>({{letter}}). <m>\quad {{value}}</m></p>
+        {{/choices}}
+    </content>
+    <outtro>
+        <p><m>{{answer}}</m></p>
+    </outtro>
+</knowl>

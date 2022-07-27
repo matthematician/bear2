@@ -1,0 +1,38 @@
+]0;~/matt-salomone/bear2[01;34m~/matt-salomone/bear2[00m$ pwd
+/home/user/matt-salomone/bear2
+]0;~/matt-salomone/bear2[01;34m~/matt-salomone/bear2[00m$ ls
+2022-06-25-053302.term  bank.xml  dashboard.ipynb  [0m[01;34mdocs[0m  requirements.txt
+]0;~/matt-salomone/bear2[01;34m~/matt-salomone/bear2[00m$ mkdr[Kdi[Kr[K[Kir outcoes
+]0;~/matt-salomone/bear2[01;34m~/matt-salomone/bear2[00m$ mv outcoes/ outcomes
+]0;~/matt-salomone/bear2[01;34m~/matt-salomone/bear2[00m$ cd outcomes/ [K
+]0;~/matt-salomone/bear2/outcomes[01;34m~/matt-salomone/bear2/outcomes[00m$ cp -r ../../outcome[K[K[K[K[K[K[Kbear1/outcomes/AR1/ .
+]0;~/matt-salomone/bear2/outcomes[01;34m~/matt-salomone/bear2/outcomes[00m$ ls
+[0m[01;34mAR1[0m
+]0;~/matt-salomone/bear2/outcomes[01;34m~/matt-salomone/bear2/outcomes[00m$ [K]0;~/matt-salomone/bear2/outcomes[01;34m~/matt-salomone/bear2/outcomes[00m$ [K]0;~/matt-salomone/bear2/outcomes[01;34m~/matt-salomone/bear2/outcomes[00m$ [K]0;~/matt-salomone/bear2/outcomes[01;34m~/matt-salomone/bear2/outcomes[00m$ [K]0;~/matt-salomone/bear2/outcomes[01;34m~/matt-salomone/bear2/outcomes[00m$ mv AR1/ AC1
+]0;~/matt-salomone/bear2/outcomes[01;34m~/matt-salomone/bear2/outcomes[00m$ cp -r AC1 [K/ A2[KC2
+]0;~/matt-salomone/bear2/outcomes[01;34m~/matt-salomone/bear2/outcomes[00m$ cp -r AC1/ AC2[K3
+]0;~/matt-salomone/bear2/outcomes[01;34m~/matt-salomone/bear2/outcomes[00m$ cp -r AC1/ AC3[K4
+]0;~/matt-salomone/bear2/outcomes[01;34m~/matt-salomone/bear2/outcomes[00m$ cp -r AC1/ AC4[K5
+]0;~/matt-salomone/bear2/outcomes[01;34m~/matt-salomone/bear2/outcomes[00m$ cp -r AC1/ AC5[K[K[KEQ1
+]0;~/matt-salomone/bear2/outcomes[01;34m~/matt-salomone/bear2/outcomes[00m$ cp -r AC1/ EQ1[K2
+]0;~/matt-salomone/bear2/outcomes[01;34m~/matt-salomone/bear2/outcomes[00m$ cp -r AC1/ EQ2[K3
+]0;~/matt-salomone/bear2/outcomes[01;34m~/matt-salomone/bear2/outcomes[00m$ cp -r AC1/ EQ3[K[K[KGR1
+]0;~/matt-salomone/bear2/outcomes[01;34m~/matt-salomone/bear2/outcomes[00m$ cp -r AC1/ GR1[Kg2[K[K2
+]0;~/matt-salomone/bear2/outcomes[01;34m~/matt-salomone/bear2/outcomes[00m$ cp -r AC1/ GR2[Kg3[K[K3
+]0;~/matt-salomone/bear2/outcomes[01;34m~/matt-salomone/bear2/outcomes[00m$ cp -r AC1/ GR3[K4
+]0;~/matt-salomone/bear2/outcomes[01;34m~/matt-salomone/bear2/outcomes[00m$ cp -r AC1/ GR4[K5
+]0;~/matt-salomone/bear2/outcomes[01;34m~/matt-salomone/bear2/outcomes[00m$ cp -r AC1/ GR5[K[K[KA[KFN1
+]0;~/matt-salomone/bear2/outcomes[01;34m~/matt-salomone/bear2/outcomes[00m$ cp -r AC1/ FN1[K2
+]0;~/matt-salomone/bear2/outcomes[01;34m~/matt-salomone/bear2/outcomes[00m$ cp -r AC1/ FN2[K3
+]0;~/matt-salomone/bear2/outcomes[01;34m~/matt-salomone/bear2/outcomes[00m$ cp -r AC1/ FN3[K4
+]0;~/matt-salomone/bear2/outcomes[01;34m~/matt-salomone/bear2/outcomes[00m$ cp -r AC1/ FN4[K5
+]0;~/matt-salomone/bear2/outcomes[01;34m~/matt-salomone/bear2/outcomes[00m$ cp -r AC1/ FN5[K6
+]0;~/matt-salomone/bear2/outcomes[01;34m~/matt-salomone/bear2/outcomes[00m$ cp -r AC1/ FN6[K[K[KTR1
+]0;~/matt-salomone/bear2/outcomes[01;34m~/matt-salomone/bear2/outcomes[00m$ cp -r AC1/ TR1[K2
+]0;~/matt-salomone/bear2/outcomes[01;34m~/matt-salomone/bear2/outcomes[00m$ cp -r AC1/ TR2[K3
+]0;~/matt-salomone/bear2/outcomes[01;34m~/matt-salomone/bear2/outcomes[00m$ cp -r AC1/ TR3[K4
+]0;~/matt-salomone/bear2/outcomes[01;34m~/matt-salomone/bear2/outcomes[00m$ cp -r AC1/ TR4[K5
+]0;~/matt-salomone/bear2/outcomes[01;34m~/matt-salomone/bear2/outcomes[00m$ ls
+[0m[01;34mAC1[0m  [01;34mAC3[0m  [01;34mAC5[0m  [01;34mEQ2[0m  [01;34mFN1[0m  [01;34mFN3[0m  [01;34mFN5[0m  [01;34mGR1[0m  [01;34mGR3[0m  [01;34mGR5[0m  [01;34mTR2[0m  [01;34mTR4[0m
+[01;34mAC2[0m  [01;34mAC4[0m  [01;34mEQ1[0m  [01;34mEQ3[0m  [01;34mFN2[0m  [01;34mFN4[0m  [01;34mFN6[0m  [01;34mGR2[0m  [01;34mGR4[0m  [01;34mTR1[0m  [01;34mTR3[0m  [01;34mTR5[0m
+]0;~/matt-salomone/bear2/outcomes[01;34m~/matt-salomone/bear2/outcomes[00m$ ]0;~/matt-salomone/bear2[01;34m~/matt-salomone/bear2[00m$ 

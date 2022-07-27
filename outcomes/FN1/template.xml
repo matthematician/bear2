@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knowl mode="exercise" xmlns="https://spatext.clontz.org" version="0.2">
+    <content>
+        <p>The <m>{{coord}}</m>-coordinate of the intersection of the graphs of </p>
+        <p><m>\quad {{lhs1}} = {{rhs1}}</m> and</p>
+        <p><m>\quad {{lhs2}} = {{rhs2}}</m> is:</p>
+        <p> </p>
+        {{#choices}}
+        <p>({{letter}}). <m>\quad\displaystyle {{value}}</m></p>
+        {{/choices}}
+    </content>
+    <outtro>
+        <p><m>\displaystyle {{answer}}</m></p>
+    </outtro>
+</knowl>

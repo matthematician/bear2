@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knowl mode="exercise" xmlns="https://spatext.clontz.org" version="0.2">
+    <content>
+    
+            <p>Simplify: <m>\quad\displaystyle {{base1}}^{ {{n1}}/{{d1}} } \cdot {{base2}}^{ {{n2}}/{{d2}} } = </m></p>
+        {{#choices}}
+        <p>({{letter}}). <m>\quad\displaystyle {{value}}</m></p>
+        {{/choices}}
+      
+    </content>
+    <outtro>
+        <p>This expression evaluates to <m>{{answer}}</m>.</p>
+    </outtro>
+    
+</knowl>

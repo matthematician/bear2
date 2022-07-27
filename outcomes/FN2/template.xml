@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knowl mode="exercise" xmlns="https://spatext.clontz.org" version="0.2">
+    <content>
+        <p><image source="assets/FN2/generated/{{__seed__}}/graph0.png" description="Graph of y = {{f}}"/></p>
+        <p>Given the graph above of <m>y = {{f}}</m>, which of the following is the graph of</p>
+        <p><m>\quad y = {{expr}}\quad </m>?</p>
+        <p><m>\quad \text{Graph I:}\quad </m><image source="assets/FN2/generated/{{__seed__}}/graph1.png"/></p>
+        <p><m>\quad \text{Graph II:}\quad </m><image source="assets/FN2/generated/{{__seed__}}/graph2.png"/></p>
+        <p><m>\quad \text{Graph III:}\quad </m><image source="assets/FN2/generated/{{__seed__}}/graph3.png"/></p>
+        <p><m>\quad \text{Graph IV:}\quad </m><image source="assets/FN2/generated/{{__seed__}}/graph4.png"/></p>
+
+        <p> </p>
+        {{#choices}}
+        <p>({{letter}}). <m>\quad\displaystyle {{value}}</m></p>
+        {{/choices}}
+    </content>
+    <outtro>
+        <p><m>\displaystyle {{answer}}</m></p>
+    </outtro>
+</knowl>

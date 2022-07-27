@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knowl mode="exercise" xmlns="https://spatext.clontz.org" version="0.2">
+    <content>
+        <p>A function <m>{{f}}</m> is called {{sym}} if, for all <m>x</m> in the domain of <m>{{f}}</m>, we have <m>{{f}}(-x) = {{symsign}}{{f}}(x)</m>.</p>
+        
+        <p>Graph I: <image source="assets/GR4/{{graphI}}.png" description="Graph I"/></p>
+        <p>Graph II: <image source="assets/GR4/{{graphII}}.png" description="Graph II"/></p>
+        <p>Graph III: <image source="assets/GR4/{{graphIII}}.png" description="Graph III"/></p>
+        <p>Graph IV: <image source="assets/GR4/{{graphIV}}.png" description="Graph IV"/></p>
+        
+    <p>Which of the above is/are the graph of an {{sym}} function?</p>
+        {{#choices}}
+        <p>({{letter}}). <m>\quad \text{ {{value}} }</m></p>
+        {{/choices}}
+    </content>
+    <outtro>
+        <p><m>\text{ {{answer}} }</m></p>
+    </outtro>
+</knowl>

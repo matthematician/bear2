@@ -4,197 +4,202 @@
     <slug>bridgewater-bear-exam-2</slug>
     <url>http://matthematician.github.io/bear2</url>
     <outcomes>
+           <outcome>
+            <title>Understanding Rational Exponents</title>
+            <slug>AC1</slug>
+            <path>outcomes/AC1</path>
+            <description>
+               Simplify arithmetic expressions with signed rational exponents, by converting them into radicals.
+            </description>
+        </outcome>
         <outcome>
             <title>Plane and Solid Geometry</title>
-            <slug>PC1</slug>
-            <path>outcomes/PC1</path>
+            <slug>AC2</slug>
+            <path>outcomes/AC2</path>
             <description>
                Recall and use formulas for perimeter, area, surface area, and volume.
             </description>
         </outcome>
         <outcome>
+            <title>Using Literal Equations</title>
+            <slug>AC3</slug>
+            <path>outcomes/AC3</path>
+            <description>
+               Use a given single-variable equation, without solving it, to predict the value of other expressions involving the same variable.
+            </description>
+        </outcome>
+        <outcome>
+            <title>Understanding Exponential Growth and Decay</title>
+            <slug>AC4</slug>
+            <path>outcomes/AC4</path>
+            <description>
+               Distinguish exponential from linear growth/decay, and make predictions using the base of an exponential relationship.
+            </description>
+        </outcome>
+                 <outcome>
+            <title>Using Function Notation</title>
+            <slug>AC5</slug>
+            <path>outcomes/AC5</path>
+            <description>
+               Evaluate a given function with a given algebraic expression as input.
+            </description>
+        </outcome>  
+         <outcome>
+            <title>Absolute-Value Equations and Inequalities</title>
+            <slug>EQ1</slug>
+            <path>outcomes/EQ1</path>
+            <description>
+               Solve an inequality involving absolute values, expressing the answer as a solved compound inequality.
+            </description>
+        </outcome>
+        <outcome>
+            <title>Solving Rational Equations</title>
+            <slug>EQ2</slug>
+            <path>outcomes/EQ2</path>
+            <description>
+               Use its factored form to solve an equation involving a rational expression.
+            </description>
+        </outcome>   
+        <outcome>
+            <title>Solving Logarithmic Equations</title>
+            <slug>EQ3</slug>
+            <path>outcomes/EQ3</path>
+            <description>
+               Solve an equation given in logarithmic form, with a specified base.
+            </description>
+        </outcome>
+         <outcome>
+            <title>Local Properties of Functions' Graphs</title>
+            <slug>GR1</slug>
+            <path>outcomes/GR1</path>
+            <description>
+               Use the graph of a function to determine some of its local properties, including intercepts and other (x,y) coordinate data.
+            </description>
+        </outcome>
+       <outcome>
+            <title>Extreme Values of Functions</title>
+            <slug>GR2</slug>
+            <path>outcomes/GR2</path>
+            <description>
+               Use its graph to determine local and global minimum/maximum points and values of a given function.
+            </description>
+        </outcome>
+        <outcome>
             <title>Global Properties of Functions' Graphs</title>
-            <slug>PC2</slug>
-            <path>outcomes/PC2</path>
+            <slug>GR3</slug>
+            <path>outcomes/GR3</path>
             <description>
                Use the graph of a function to answer questions about its global properties, including its domain and range, solutions of inequalities, and intervals of increase/decrease.
             </description>
         </outcome>
         <outcome>
-            <title>Understanding Exponential Growth and Decay</title>
-            <slug>PC3</slug>
-            <path>outcomes/PC3</path>
+            <title>Symmetries of Function Graphs</title>
+            <slug>GR4</slug>
+            <path>outcomes/GR4</path>
             <description>
-               Distinguish exponential from linear growth/decay, and make predictions using the base of an exponential relationship.
-            </description>
-        </outcome>
-        <outcome>
-            <title>Intersection Points of Graphs</title>
-            <slug>PC4</slug>
-            <path>outcomes/PC</path>
-            <description>
-               Determine the point(s) of intersection of two graphs, requiring solving equations up to quadratic in form.
-            </description>
-        </outcome>
-        <outcome>
-            <title>Global Properties of Function Graphs</title>
-            <slug>PC5</slug>
-            <path>outcomes/PC5</path>
-            <description>
-               Connect global properties of functions, such as even/odd symmetry, with properties of their graphs.
-            </description>
-        </outcome>
-        <outcome>
-            <title>Understanding Rational Exponents</title>
-            <slug>PC6</slug>
-            <path>outcomes/PC6</path>
-            <description>
-               Convert between fractional-exponent and radical expressions.
-            </description>
-        </outcome>
-        <outcome>
-            <title>Graphs of Polynomial Functions</title>
-            <slug>PC7</slug>
-            <path>outcomes/PC7</path>
-            <description>
-                Match a polynomial function's expression with the shape of its graph, without the assistance of axes or coordinates.
-            </description>
-        </outcome>
-        <outcome>
-            <title>Logarithmic Equations</title>
-            <slug>PC8</slug>
-            <path>outcomes/PC8</path>
-            <description>
-               Solve an equation given in logarithmic form, with a specified base.
-            </description>
-        </outcome>
-        <outcome>
-            <title>Graphs of Exponential Functions</title>
-            <slug>PC9</slug>
-            <path>outcomes/PC9</path>
-            <description>
-               Match an exponential function's expression with the shape of its graph, without the assistance of axes or coordinates.
-            </description>
-        </outcome>
-        <outcome>
-            <title>Solving Rational Equations</title>
-            <slug>PC10</slug>
-            <path>outcomes/PC10</path>
-            <description>
-               Use its factored form to solve an equation involving a rational expression.
-            </description>
-        </outcome>        
-        <outcome>
-            <title>Using Literal Equations</title>
-            <slug>PC11</slug>
-            <path>outcomes/PC11</path>
-            <description>
-               Use a given single-variable equation, without solving it, to predict the value of other expressions involving the same variable.
+               Connect global symmetries of functions, such as even/odd symmetry, with properties of their graphs.
             </description>
         </outcome>
          <outcome>
             <title>Coordinate Geometry in the xy-Plane</title>
-            <slug>PC12</slug>
-            <path>outcomes/PC12</path>
+            <slug>GR5</slug>
+            <path>outcomes/GR5</path>
             <description>
                Use the distance formula to measure lengths of line segments between two given points on an xy coordinate system.
             </description>
         </outcome>
-         <outcome>
-            <title>Using Function Notation</title>
-            <slug>PC13</slug>
-            <path>outcomes/PC13</path>
+        <outcome>
+            <title>Intersection Points of Graphs</title>
+            <slug>FN1</slug>
+            <path>outcomes/FN1</path>
             <description>
-               Evaluate a given function with a given algebraic expression as input.
-            </description>
-        </outcome>       
-         <outcome>
-            <title>Global Properties of Linear Graphs</title>
-            <slug>PC14</slug>
-            <path>outcomes/PC14</path>
-            <description>
-               Predict whether the graph of a linear equation is increasing, decreasing, horizontal, or vertical.
-            </description>
-        </outcome>
-         <outcome>
-            <title>Local Properties of Functions' Graphs</title>
-            <slug>PC15</slug>
-            <path>outcomes/PC15</path>
-            <description>
-               Use the graph of a function to determine some of its local properties, including intercepts and other (x,y) coordinate data.
+               Determine the point(s) of intersection of two graphs, requiring solving equations up to quadratic in form.
             </description>
         </outcome>
          <outcome>
             <title>Transformations of Function Graphs</title>
-            <slug>PC17</slug>
-            <path>outcomes/PC17</path>
+            <slug>FN2</slug>
+            <path>outcomes/FN2</path>
             <description>
                Connect the equation and the graph of a given transformed (shifted/scaled/reflected) function graph with that of its parent function.
             </description>
         </outcome>
          <outcome>
-            <title>Absolute-Value Equations and Inequalities</title>
-            <slug>PC18</slug>
-            <path>outcomes/PC18</path>
+            <title>Graphs of Linear Functions</title>
+            <slug>FN3</slug>
+            <path>outcomes/FN3</path>
             <description>
-               Solve an inequality involving absolute values, expressing the answer as a solved compound inequality.
+               Predict whether the graph of a linear equation is increasing, decreasing, horizontal, or vertical.
+            </description>
+        </outcome>
+
+        <outcome>
+            <title>Graphs of Polynomial Functions</title>
+            <slug>FN4</slug>
+            <path>outcomes/FN4</path>
+            <description>
+                Match a polynomial function's expression with the shape of its graph, without the assistance of axes or coordinates.
+            </description>
+        </outcome>
+
+        <outcome>
+            <title>Graphs of Exponential Functions</title>
+            <slug>FN5</slug>
+            <path>outcomes/FN5</path>
+            <description>
+               Match an exponential function's expression with the shape of its graph, without the assistance of axes or coordinates.
             </description>
         </outcome>
          <outcome>
-            <title>Properties of Rational Functions</title>
-            <slug>PC19</slug>
-            <path>outcomes/PC19</path>
+            <title>Graphs of Rational Functions</title>
+            <slug>FN6</slug>
+            <path>outcomes/FN6</path>
             <description>
                Use its formula to determine the domain and horizontal and vertical asymptotes of a given rational function.
             </description>
         </outcome>
-         <outcome>
-            <title>Extreme Values of Functions</title>
-            <slug>PC20</slug>
-            <path>outcomes/PC20</path>
-            <description>
-               Use its graph to determine local and global minimum/maximum points and values of a given function.
-            </description>
-        </outcome>
-         <outcome>
-            <title>Graphs of Trigonometric Functions</title>
+        <outcome>
+            <title>Notable Angles on the Unit Circle</title>
             <slug>TR1</slug>
             <path>outcomes/TR1</path>
-            <description>
-               Match a given trigonometric parent function with its graph on a specified interval.
-            </description>
-        </outcome>
-         <outcome>
-            <title>Basic Trigonometric Identities</title>
-            <slug>TR2</slug>
-            <path>outcomes/TR2</path>
-            <description>
-               Exchange one trigonometric function for another in an equivalent expression, using their definitions and/or the Pythagorean identities.
-            </description>
-        </outcome>
-        <outcome>
-            <title>Reference Angles on the Unit Circle</title>
-            <slug>TR3</slug>
-            <path>outcomes/TR3</path>
             <description>
                Recall trigonometric ratios of <q>special</q> angles on the unit circle, without the use of a calculator.
             </description>
         </outcome>
         <outcome>
             <title>Domains and Ranges of Trigonometric Functions</title>
-            <slug>TR4</slug>
-            <path>outcomes/TR4</path>
+            <slug>TR2</slug>
+            <path>outcomes/TR2</path>
             <description>
                 Identify undefined input and/or output values of basic trigonometric functions.
             </description>
-        </outcome>    
+        </outcome>          
+         <outcome>
+            <title>Graphs of Trigonometric Functions</title>
+            <slug>TR3</slug>
+            <path>outcomes/TR3</path>
+            <description>
+               Match a given trigonometric parent function with its graph on a specified interval.
+            </description>
+        </outcome>
         <outcome>
-            <title>Trigonometric Expressions</title>
-            <slug>TR5</slug>
-            <path>outcomes/TR5</path>
+            <title>Simplifying Trigonometric Expressions</title>
+            <slug>TR4</slug>
+            <path>outcomes/TR4</path>
             <description>
                 Use their sine/cosine definitions to simplify products of expressions involving all six trigonometric ratios.
             </description>
-        </outcome>  
+        </outcome> 
+        <outcome>
+            <title>The Pythagorean Identity</title>
+            <slug>TR5</slug>
+            <path>outcomes/TR5</path>
+            <description>
+               Exchange one trigonometric function for another in an equivalent expression, using the Pythagorean identity.
+            </description>
+        </outcome>
+
+  
+ 
     </outcomes>
 </bank>

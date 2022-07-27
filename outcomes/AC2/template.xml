@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<knowl mode="exercise" xmlns="https://spatext.clontz.org" version="0.2">
+    <content>
+          <p>The box pictured below has a closed top. Its length, width, and height are related by the equation <m>{{eq}}</m>.</p>
+        <p><image source="assets/AC2/box.jpg" description="Box with length L, width W, and height H"/></p>
+        <p>Express the <em>surface area</em> of the box in terms of only the variables <m>{{v1}}</m> and <m>{{v2}}</m>.</p>
+        {{#choices}}
+        <p>({{letter}}). <m>\quad\displaystyle {{value}}</m></p>
+        {{/choices}}    </content>
+    <outtro>
+        <p>The surface area can be expressed as <m>{{answer}}</m>.</p>
+    </outtro>
+</knowl>
